@@ -1,0 +1,231 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#cabecera {
+    width: 100%;
+    height: 40%;
+    padding: 1% 0%;
+    background-color: #004AAD;
+}
+#cabecera > div {
+    width: 90%;
+    margin: auto;
+}
+#cabecera h1 {
+    font: bold 250% Arial, sans-serif;
+    color: #FFFFFF;
+    text-align: left;
+}
+#cabecera h2 {
+    font: bold 120% Arial, sans-serif;
+    color: #FFFFFF;
+    text-align: right;
+}
+#menuprincipal {
+    width: 100%;
+    height: 4%;
+    padding: 0% 0%;
+    background-color: #1E1E1E;
+    border-top: 1px solid #004AAD;
+    border-bottom: 1px solid #004AAD;
+}
+#menuprincipal > div {
+    width: 100%;
+    margin: auto;
+    padding: .01%;
+} 
+#menuprincipal li {
+    display: inline-block;
+    height: 95%;
+    padding: 1% 2% 1% 2%;
+    margin: auto;
+}
+#menuprincipal li:hover {
+    background-color: #004AAD;
+}
+#menuprincipal a {
+    font: bold 18px Arial, sans-serif;
+    color: #FFFFFF;
+    text-decoration: none;
+} 
+main {
+    width: 100%;
+    padding: 1% 0%;
+}
+main > div {
+    margin: 1% 3%;
+}  
+#articulosprincipales {
+    float: left;
+    width: 25%;
+    padding: 1% 1.5%;
+    background-color: #004AAD;
+    border-radius: 10px;
+    margin: 1% 3%;
+}
+#articulosprincipales >p{
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+#articulosprincipales >h2{
+    color: #FFFFFF;
+}
+#articulosprincipales > img{
+    width: 40%;
+    padding: 01% 30%;
+}
+#infoadicional {
+    float: right;
+    width: 20%;
+    padding: 2% 2%;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    margin: 01% 3%;
+}
+#redes{
+    width: 25%;
+}
+#infoadicional p {
+    font: bold 100% Arial, sans-serif;
+    color: #FFFFFF;
+    text-align: left ;
+    float: left;
+}
+.recuperar {
+    clear: both;
+}
+#pie {
+    width: 100%;
+    padding: 1% 0%;
+    background-color: #004AAD; 
+}
+#pie > div {
+    width: 90%;
+    height: 70%;
+    margin: auto;
+    padding: 0% 0% 0% 0%;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+}
+.seccionpie {
+    float: left;
+    width: 27%;
+    padding: 3%;
+    margin: auto;
+    text-align: center;
+}
+.seccionpie h1 {
+    font: bold 20px Arial, sans-serif;
+    color: #FFFFFF;
+}
+.seccionpie address {
+    color: #FFFFFF;
+    
+}
+.seccionpie small{
+    color: #FFFFFF;
+}
+.seccionpie a {
+    font: bold 16px Arial, sans-serif;
+    color: #FFFFFF;
+    text-decoration: none;
+} 
+#biotext {
+    float: left;
+    width: 45%;
+    padding: 1% 1.5%;
+    background-color: #004AAD;
+    border-radius: 10px;
+    margin: 1% 3%;
+}
+#biotext h1{
+    color: #FFFFFF;
+    float: left;
+    padding-bottom: 2%;
+}
+#biotext p{
+    float: left;
+    color: #FFFFFF;
+    text-align: left;
+    letter-spacing: 1px;
+}
+#biofoto{
+    float: right;
+    width: 35%;
+    padding: 1% 1.5%;
+    border-radius: 10px;
+}
+#biofoto > img{
+    width: 100%;
+    border-radius: 10px;
+}
+#fav{
+    float: left;
+    width: 40%;
+    padding: 1% 1.5%;
+    background-color: #004AAD;
+    border-radius: 10px;
+    margin: 1% 3%; 
+}
+#fav p{
+    float: left;
+    color: #FFFFFF;
+    text-align: left;
+    letter-spacing: 1px;   
+}
+#fav img{
+    width: 100%;
+    border-radius: 10px;
+}
+#fav2{
+    float: right;
+    margin: 1% 3%; 
+    width: 40%;
+    background-color: #004AAD;
+    border-radius: 10px;
+    padding: 1% 1.5%;
+}
+#fav2 p{
+    float: left;
+    color: #FFFFFF;
+    text-align: left;
+    letter-spacing: 1px;   
+}
+#fav2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+#biofoto2{
+    margin: auto;
+    width: 25%;
+    padding: 1% 1.5%;
+    border-radius: 10px;
+    display: inline-block;
+}
+#biofoto2 > img{
+    width: 100%;
+    border-radius: 10px;
+}
+#biotext2 {
+    float: left;
+    width: 80%;
+    padding: 1% 1.5%;
+    background-color: #004AAD;
+    border-radius: 10px;
+    margin: auto;
+}
+#biotext2 h1{
+    color: #FFFFFF;
+    float: left;
+    padding-bottom: 2%;
+}
+#biotext2 p{
+    float: left;
+    color: #FFFFFF;
+    text-align: left;
+    letter-spacing: 1px;
+}
+main{
+    margin: auto;
+}
